@@ -1,3 +1,6 @@
 [submodule "third/libuv"]
 	path = third/libuv
 	url = https://github.com/libuv/libuv
+[submodule "third/libevent"]
+	path = third/libevent
+	url = https://github.com/libevent/libevent
