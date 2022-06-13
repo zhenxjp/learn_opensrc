@@ -4,3 +4,6 @@
 [submodule "third/libevent"]
 	path = third/libevent
 	url = https://github.com/libevent/libevent
+[submodule "third/Detours"]
+	path = third/Detours
+	url = https://github.com/microsoft/Detours
