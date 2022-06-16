@@ -7,3 +7,6 @@
 [submodule "third/Detours"]
 	path = third/Detours
 	url = https://github.com/microsoft/Detours
+[submodule "third/googletest"]
+	path = third/googletest
+	url = https://github.com/google/googletest
