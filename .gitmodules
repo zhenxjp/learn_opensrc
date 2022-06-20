@@ -10,3 +10,6 @@
 [submodule "third/googletest"]
 	path = third/googletest
 	url = https://github.com/google/googletest
+[submodule "third/json"]
+	path = third/json
+	url = https://github.com/nlohmann/json
